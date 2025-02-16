@@ -3,8 +3,6 @@
 ## 🚀 About Me
 I am a passionate **Data Scientist & Full Stack Developer** with expertise in Machine Learning, Deep Learning, and Web Development. I love solving real-world problems with data and building applications that make an impact.
 
-## 🛠 Tech Stack
-
 ## 🏆 Languages & Tools
 - Python 🐍
 - SQL 📊
