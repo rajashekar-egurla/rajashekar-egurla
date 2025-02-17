@@ -31,7 +31,7 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in Ma
 
 ## 📫 Connect with Me
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/rajashekar-egurla-091937243/)
-- Email: [My Email](egurla.rajashekar@gmail.com)
+- Email: egurla.rajashekar@gmail.com
 
 ## 📊 GitHub Stats
 
