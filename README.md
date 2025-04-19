@@ -7,6 +7,7 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in Ma
 - Python 🐍
 - SQL 📊
 - Flask ⚡
+- Django
 - HTML5, CSS3 🎨
 - JavaScript & ReactJS ⚛
 - Git & GitHub 🛠
